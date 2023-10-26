@@ -21,10 +21,8 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Native Developer with two years of
-              experience <br />
-              creating mobile apps for the iOS, Android, and Web
-              platforms.
+            Hello, I'm Shozab Sohail. I'm passionate about technology and the world of possibilities it offers. With a background in React development. <br />
+            I love turning ideas into interactive and dynamic web applications.
             </p>
 
             <p>
