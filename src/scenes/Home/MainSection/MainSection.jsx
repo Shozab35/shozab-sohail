@@ -19,8 +19,10 @@ const MainSection = () => {
         <div style={{ paddingTop: 50 }}>
           <Typewriter
             strings={[
-              'Continuously Learning',
-              'React Developer',
+              ' Adaptable Digital Marketer',
+              'SEO(Search Engine Optimization)',
+              'SEM (Search Engine Marketing)',
+              'Social Media Marketing',
             ]}
             wrapperClassName={s.typewriterWrapper}
             cursorClassName={s.typewriterCursor}
