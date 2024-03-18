@@ -18,7 +18,7 @@ const BtnToggleTheme = ({ className }) => {
       addClass={className}
       onClick={toggleTheme}
       label="theme toggle"
-    >
+     >
       <ToggleThemeIcon className={s.toggleTheme} />
     </Button>
   );

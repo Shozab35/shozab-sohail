@@ -21,8 +21,11 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-            Hello, I'm Shozab Sohail. I'm passionate about technology and the world of possibilities it offers. With a background in React development. <br />
-            I love turning ideas into interactive and dynamic web applications.
+            🌟 Welcome to the dynamic realm of digital marketing! If you're seeking top-tier digital marketing services to elevate your business and gain a significant competitive advantage, you're in the perfect spot! I'm thrilled to introduce myself as Shozab Sohail, a seasoned digital marketing expert boasting nearly a decade of unparalleled experience in propelling brands to new heights in the online sphere.
+
+Throughout my career, I've cultivated a reputation for excellence by delivering outstanding results and empowering brands to thrive in the digital landscape. As the founder of a highly successful digital marketing agency, I've had the privilege of partnering with esteemed companies across the United States, guiding them towards unparalleled success in the digital realm.
+
+Together, let's embark on an exhilarating journey towards unlocking your brand's full potential and achieving remarkable growth in the ever-evolving world of digital marketing. With my expertise and your ambition, the possibilities are endless. Let's make waves and leave a lasting impact in the digital arena! 🚀
             </p>
 
             <p>
