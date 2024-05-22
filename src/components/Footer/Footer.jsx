@@ -19,19 +19,10 @@ const Footer = () => {
 
         <div className={s.body}>
           <ul className={s.socialIcons}>
+            
             <li>
               <a
-                href="https://github.com/vsnaichuk"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="github"
-              >
-                <AiFillGithub />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.facebook.com/Snaychuk"
+                href="https://www.facebook.com/shozab.sohail.73"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="facebook"
@@ -41,17 +32,7 @@ const Footer = () => {
             </li>
             <li>
               <a
-                href="https://t.me/snaichuk_v"
-                target="_blank"
-                rel="noreferrer"
-                aria-label="TelegramPlane"
-              >
-                <FaTelegramPlane />
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+                href="https://www.linkedin.com/in/shozab-sohail-044099202/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="linkedin"

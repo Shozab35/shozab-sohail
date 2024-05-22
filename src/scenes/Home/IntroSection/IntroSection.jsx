@@ -21,25 +21,34 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-            🌟 Welcome to the dynamic realm of digital marketing! If you're seeking top-tier digital marketing services to elevate your business and gain a significant competitive advantage, you're in the perfect spot! I'm thrilled to introduce myself as Shozab Sohail, a seasoned digital marketing expert boasting nearly a decade of unparalleled experience in propelling brands to new heights in the online sphere.
-
-Throughout my career, I've cultivated a reputation for excellence by delivering outstanding results and empowering brands to thrive in the digital landscape. As the founder of a highly successful digital marketing agency, I've had the privilege of partnering with esteemed companies across the United States, guiding them towards unparalleled success in the digital realm.
-
-Together, let's embark on an exhilarating journey towards unlocking your brand's full potential and achieving remarkable growth in the ever-evolving world of digital marketing. With my expertise and your ambition, the possibilities are endless. Let's make waves and leave a lasting impact in the digital arena! 🚀
+            I'm Shozab Sohail, a dynamic and results-driven digital marketer and WordPress developer. With a solid foundation in website development and a knack for creating user-friendly WordPress websites, I excel at turning data into engaging online campaigns. My expertise spans content creation, SEO optimization, and social media management, all aimed at driving traffic, generating leads, and achieving business goals.
             </p>
 
             <p>
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  TypeScript, React, React Native,
+                  WordPress Developer,
+                SEO,
+Social Media Management,
+HTML, Java, CSS,
+React (Intermediate),
+Video Marketing,
+Pay-Per-Click Advertising (PPC),
+Google Analytics,
+Google Ads,
+Email Marketing,
+Facebook Ads,
+Social Media Marketing,
+SEM,
+WordPress and Wix,
+Facebook Business Manager,
+CSM
                 </b>
               </i>
               <br />
-              and other relevant technologies. I have experience in
-              integrating various <br />
-              third-party libraries, API integration, push
-              notifications and analytics.
+              and other relevant technologies.<br />
+              I find great joy and fulfillment in the process of designing websites.
             </p>
 
             <p>
@@ -63,20 +72,10 @@ Together, let's embark on an exhilarating journey towards unlocking your brand's
           me
         </p>
         <ul className={s.socialLinks}>
+         
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-              aria-label="github"
-            >
-              <AiFillGithub />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.facebook.com/Snaychuk"
+              href="https://www.facebook.com/shozab.sohail.73"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
@@ -87,18 +86,7 @@ Together, let's embark on an exhilarating journey towards unlocking your brand's
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://t.me/snaichuk_v"
-              target="_blank"
-              rel="noreferrer"
-              className={s.socialIcon}
-              aria-label="telegram"
-            >
-              <FaTelegramPlane />
-            </a>
-          </li>
-          <li className={s.socialLink}>
-            <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/shozab-sohail-044099202/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

@@ -6,17 +6,17 @@ const AboutTextCard = () => {
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
         Hi Everyone, I am{' '}
-        <span className={s.purple}>Snaichuk Volodymyr </span>
-        from <span className={s.purple}> Ternopil, Ukraine.</span>
+        <span className={s.purple}>Shozab Sohail </span>
+        from <span className={s.purple}> Punjab, Pakistan.</span>
         <br />
-        Software engineer with expertise in cross-platform development{' '}
+        My expertise lies in digital marketing and WordPress development,{' '}
         <br />
-        using React Native.
+        where I merge tech prowess with creative strategies.
         <br />
         <br />
-        I have a Bachelor's degree in Computer Science and
+        I am doing a Bachelor's degree in Computer Science and
         <br />
-        Master's degree in Project Management from Ternopil Academy.
+       
         <br />
         <br />
         Apart from coding, some other activities that I love to do!

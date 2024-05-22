@@ -66,5 +66,4 @@ const ModalProjectCard = () => {
     </Modal>
   );
 };
-
 export default ModalProjectCard;
